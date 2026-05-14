@@ -48,26 +48,21 @@ K-Means works in the following iterative steps:
 The algorithm attempts to minimize the **Within-Cluster Sum of Squares (WCSS)**.
 
 ---
-
 ## 📌 Mathematical Formula
 
 ### Euclidean Distance
 
-\[
-d(x, y) = \sqrt{\sum_{i=1}^{n}(x_i - y_i)^2}
-\]
+d(x, y) = √Σ(xᵢ − yᵢ)²
 
 ### Centroid Update Formula
 
-\[
-C_k = \frac{1}{N_k}\sum_{i=1}^{N_k} x_i
-\]
+Cₖ = (1 / Nₖ) Σxᵢ
 
 Where:
 
-- \( C_k \) → centroid of cluster k
-- \( N_k \) → number of points in cluster k
-
+- Cₖ → centroid of cluster k
+- Nₖ → number of points in cluster k
+  
 ---
 
 ## 🛠️ Technologies Used
