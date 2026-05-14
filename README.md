@@ -9,7 +9,7 @@ This project demonstrates the internal working mechanism of one of the most fund
 ## 📈 K-Means Clustering Step-by-Step
 
 <p align="center">
-  <img src="images/clustering_explained.png" alt="K-Means Clustering Step-by-Step Visualization" width="900">
+  <img src="clustering_explained.png" alt="K-Means Clustering Step-by-Step Visualization" width="900">
 </p>
 
 ---
