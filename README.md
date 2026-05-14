@@ -6,6 +6,14 @@ This project demonstrates the internal working mechanism of one of the most fund
 
 ---
 
+## 📈 K-Means Clustering Step-by-Step
+
+<p align="center">
+  <img src="images/clustering_explained.png" alt="K-Means Clustering Step-by-Step Visualization" width="900">
+</p>
+
+---
+
 ## 🚀 Project Overview
 
 K-Means Clustering is an **unsupervised machine learning algorithm** used to group similar data points into clusters based on feature similarity.
