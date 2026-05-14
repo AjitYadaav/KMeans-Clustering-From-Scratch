@@ -171,12 +171,7 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 **Ajit Yadav**
-
 B.Tech CSE Student | Aspiring Data Scientist | Machine Learning Enthusiast
-
-- GitHub: your-github-link
-- LinkedIn: your-linkedin-link
-
 ---
 
 ## ⭐ Support
